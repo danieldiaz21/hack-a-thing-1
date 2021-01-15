@@ -4,7 +4,7 @@ This is me dipping my toes in the world of Android development, aided by the tut
 
 ## Architecture
 
-This lacks a formal project structure as this journey is more of a learning experience rather than a project experience. Nonetheless, there are mini challenges introduced in the tutorial which I have included in the form of folders. 
+This lacks a formal project structure as this journey is more of a learning experience rather than a project experience. The amount of time I spent learning is not reflected by the contents in this repository. Nonetheless, there are mini challenges introduced in the tutorial which I have included in the form of folders. 
 
 ## Setup
 
