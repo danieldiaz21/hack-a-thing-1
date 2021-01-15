@@ -1,6 +1,6 @@
 # Introduction to Android Development
 
-This me dipping my toes in the world of Android development, aided by the tutorial [Android Development for Beginners](https://youtu.be/fis26HvvDII). I have never explored Android Studio, but have always been interested in app development, hence my decision to explore this new technology. 
+This is me dipping my toes in the world of Android development, aided by the tutorial [Android Development for Beginners](https://youtu.be/fis26HvvDII). I have never explored Android Studio, but have always been interested in app development, hence my decision to explore this new technology. 
 
 ## Architecture
 
