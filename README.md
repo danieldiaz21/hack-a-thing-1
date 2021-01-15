@@ -1,24 +1,19 @@
-# Project Name
+# Introduction to Android Development
 
-![Team Photo](Insert a Team Photo URL here)
-[*how?*](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
-
-TODO: short project description, some sample screenshots or mockups
+This me dipping my toes in the world of Android development, aided by the tutorial [Android Development for Beginners](https://youtu.be/fis26HvvDII). I have never explored Android Studio, but have always been interested in app development, hence my decision to explore this new technology. 
 
 ## Architecture
 
-TODO:  descriptions of code organization and tools and libraries used
+This lacks a formal project structure as this journey is more of a learning experience rather than a project experience. Nonetheless, there are mini challenges introduced in the tutorial which I have included in the form of folders. 
 
 ## Setup
 
-TODO: how to get the project dev environment up and running, npm install etc
+I utilized Android Studio and Intellij IDEA.
 
-## Deployment
-
-TODO: how to deploy the project
 
 ## Authors
 
-TODO: list of authors
+Daniel Diaz (just me)
 
 ## Acknowledgments
+I would like to thank this impressive, comprehensive [tutorial](https://youtu.be/fis26HvvDII) for teaching me the basics requried to delve deeper into Android development.
